@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kim jong-un\documents\visual studio 2017\projects\roulettewheelselection\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RouletteWheelSelection.vcxproj -> C:\Users\Kim Jong-Un\Documents\Visual Studio 2017\Projects\RouletteWheelSelection\Debug\RouletteWheelSelection.exe
